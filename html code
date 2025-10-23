@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="PAGE PRINCIPALE.css" />
+  </head>
+  <body>
+    <div class="dedal-des-couleurs">
+      <img class="art-gallery" src="img/art-gallery-1.png" />
+      <img class="gradient-png" src="img/gradient-png-1.png" />
+      <img class="img" src="img/gradient-png-2.png" />
+      <div class="text-wrapper">DEDAL DES COULEURS</div>
+      <p class="DESCRIPTION">
+        Une exploration élégante de l&#39;art contemporain <br />où chaque œuvre raconte une histoire unique.
+      </p>
+      <div class="bouton-code"><div class="div">DECOUVRIR LA COLLECTION</div></div>
+      <header class="header">
+        <div class="block"></div>
+        <div class="navigation-pill-list">
+          <div class="EN-VEDETTE"><div class="COLLECTION">EN VEDETTE</div></div>
+          <div class="div-wrapper"><div class="text-wrapper-2">GALERIE</div></div>
+          <div class="div-wrapper"><div class="text-wrapper-2">A PROPOS</div></div>
+          <div class="CONTACT"><div class="text-wrapper-2">CONTACT</div></div>
+        </div>
+      </header>
+      <div class="contact"><div class="text-wrapper-3">CONTACT</div></div>
+      <img class="dedal-logo-DC" src="img/dedal-logo-DC-1.png" />
+      <div class="text-wrapper-4">DEDAL DES COULEURS</div>
+    </div>
+  </body>
+</html>
